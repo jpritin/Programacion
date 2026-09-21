@@ -5,6 +5,6 @@ Repositorio del módulo de programación de DAW
 
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| [página.html](/tema1/pagina.html) | Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de mi elección |
+| [Welcome.java](/tema1/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
 
 
