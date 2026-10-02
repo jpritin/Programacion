@@ -14,3 +14,6 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [CalculaMinutos.java](/tema2/CalculaMinutos.java) | Calcula el número de minutos y segundos dada una cantidad de segundos |
+| [ComputeArea.java](/tema2/ComputeArea.java) | Calcula el área de un cono |
+| [CtoF.java](/tema2/CtoF.java) | Calcula grados Celsius desde grados Farenheit |
+| [FtoC.java](/tema2/FtoC.java) | Calcula grados Farenheit desde grados Celsius |
