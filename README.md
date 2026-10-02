@@ -17,3 +17,4 @@ Repositorio del módulo de programación de DAW
 | [ComputeArea.java](/tema2/ComputeArea.java) | Calcula el área de un cono |
 | [CtoF.java](/tema2/CtoF.java) | Calcula grados Celsius desde grados Farenheit |
 | [FtoC.java](/tema2/FtoC.java) | Calcula grados Farenheit desde grados Celsius |
+| [Expresiones.java](/tema2/Expresiones.java) | Evalúa expresiones en Java |
