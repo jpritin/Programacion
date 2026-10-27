@@ -18,3 +18,9 @@ Repositorio del módulo de programación de DAW
 | [CtoF.java](/tema2/CtoF.java) | Calcula grados Celsius desde grados Farenheit |
 | [FtoC.java](/tema2/FtoC.java) | Calcula grados Farenheit desde grados Celsius |
 | [Expresiones.java](/tema2/Expresiones.java) | Evalúa expresiones en Java |
+
+## TEMA 5 - Bucles
+
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| [Escalera.java](/tema5/Escalera.java) | Muestra una escalera numérica usando bucles |
