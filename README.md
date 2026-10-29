@@ -24,3 +24,4 @@ Repositorio del módulo de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [Escalera.java](/tema5/Escalera.java) | Muestra una escalera numérica usando bucles |
+| [NumerosPrimos.java](/tema5/NumerosPrimos.java) | Muestra los 50 primeros números primos |
